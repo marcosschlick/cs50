@@ -1,0 +1,12 @@
+sort1 uses: bubble sort
+
+How do you know?: sort1 showed dramatically faster performance with the already sorted list, which reflects bubble sort's best-case Ω(n) time complexity when no swaps are needed.
+
+sort2 uses: merge sort
+
+How do you know?: sort2 showed consistent performance across all list types, which is characteristic of merge sort's O(n log n) time complexity in all cases.
+
+sort3 uses: selection sort
+
+How do you know?: sort3 showed consistently slow performance across all list types, which matches selection sort's O(n²) time complexity regardless of initial order.
+
